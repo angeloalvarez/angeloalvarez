@@ -4,8 +4,6 @@ Welcome to my GitHub profile! I'm a developer with a deep love for Python. I als
 
 ## Featured Projects
 
-Here are some of my favorite project:
-
 - [Eolic](https://github.com/thiarthur/eolic): Event Oriented Link and Integration Controller 
 
 ## Top Languages
