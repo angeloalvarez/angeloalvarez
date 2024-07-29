@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm angeloalvarez 👋
 
-<!--
-**angeloalvarez/angeloalvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a developer with a deep love for Python. I also enjoy working with other programming languages and am constantly learning new technologies. Recently, I have started working on open-source projects and am excited to contribute to the community.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of my favorite project:
+
+- [Eolic](https://github.com/thiarthur/eolic): Event Oriented Link and Integration Controller 
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angeloalvarez&layout=compact&theme=synthwave)
